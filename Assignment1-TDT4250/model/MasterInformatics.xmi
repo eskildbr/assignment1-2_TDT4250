@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assignment1:Specialization
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:assignment1="platform:/Assignment1/model/assignment1.ecore"
+    xsi:schemaLocation="platform:/Assignment1/model/assignment1.ecore assignment1.ecore"
+    name="Master Informatics: Databases and Search">
+  <program gradYear="2022"
+      specialization="/">
+    <year number="1"
+        credits="60.0">
+      <courseChoice
+          criteria="Maximum 3 courses of Third-degree">
+        <course
+            role="Elective"
+            courseCode="TDT4250"
+            credits="7.5"
+            name="Advanced Software Design"
+            level="Higher">
+          <lecturer
+              fullName="Hallvard Trætteberg"/>
+        </course>
+        <course
+            role="Elective"
+            courseCode="IT2810"
+            credits="7.5"
+            name="Webdesign"
+            level="Third-Degree"/>
+        <course
+            role="Mandatory"
+            courseCode="TDT4117"
+            credits="7.5"
+            name="Information Retrieval"
+            level="Higher">
+          <lecturer
+              fullName="Herindrasana Ramampiaro"/>
+        </course>
+        <course
+            role="Higher"
+            courseCode="TDT4225"
+            credits="7.5"
+            name="Large, Distributed Data Volumes"
+            level="Higher"/>
+        <course
+            role="Mandatory"
+            courseCode="IT3010"
+            credits="7.5"
+            name="Empirical Research.."
+            level="Higher"/>
+        <course
+            role="Mandatory"
+            courseCode="TDT4300"
+            credits="7.5"
+            name="Data Warehousing and Data Mining"
+            level="Third-Degree"/>
+        <course
+            role="Mandatory"
+            courseCode="TDT4150"
+            credits="7.5"
+            name="Advanced Database Management Systems"
+            level="Higher"/>
+        <course
+            role="Mandatory"
+            courseCode="TDT4305"
+            credits="7.5"
+            name="Big Data Arcitechture"
+            level="Higher"/>
+      </courseChoice>
+    </year>
+  </program>
+</assignment1:Specialization>

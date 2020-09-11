@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assignment1:Specialization
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:assignment1="platform:/Assignment1/model/assignment1.ecore"
+    xsi:schemaLocation="platform:/Assignment1/model/assignment1.ecore assignment1.ecore"
+    name="None">
+  <program gradYear="2023"
+      specialization="/">
+    <year number="1"
+        credits="60.0">
+      <courseChoice
+          criteria="None">
+        <course
+            role="Mandatory"
+            courseCode="EXPH0300"
+            credits="7.5"
+            name="Exphil"
+            level="Examen Philisophicum"/>
+        <course
+            role="Mandatory"
+            courseCode="TDT4109"
+            credits="7.5"
+            name="Informasjonsteknologi: Grunnkurs"
+            level="First-Degree"/>
+        <course
+            role="Mandatory"
+            courseCode="MA0001"
+            credits="7.5"
+            name="Brukerkurs i matematikk A."
+            level="Lower-Degree"/>
+        <course
+            role="Mandatory"
+            courseCode="IT2805"
+            credits="7.5"
+            name="Webteknologi"
+            level="First-Degree"/>
+      </courseChoice>
+    </year>
+  </program>
+</assignment1:Specialization>
