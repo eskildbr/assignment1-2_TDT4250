@@ -9,3 +9,4 @@ We tried implementing derived feature to the lecturer class, in a similar way th
 We did not quite understand the use of enums and how to implement this in the model. We wanted to have a semester as enum so that one can choose between fall/spring, but did not understand how this could be referenced and added.
 
 Image showing a couple of generated models: 
+https://github.com/eskildbr/assignment1_TDT4250/blob/master/Assignment1-TDT4250/UML.png
